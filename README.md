@@ -154,17 +154,68 @@
 | [《陈风·衡门》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E8%A1%A1%E9%96%80) | ☆ | 贫贱自慰，“住在衡门之下也行吧” |
 | [《陈风·泽陂》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E6%BE%A4%E9%99%82) | ☆☆ | 见草木而怀人 |
 
+#### · 桧风（3/4）
 
+| 标题 | 熟知程度 | 主题 |
+| --- | --- | --- |
+| [《桧风·素冠》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E7%B4%A0%E5%86%A0) | ☆ | 悼亡诗，女子悼念丈夫 |
+| [《桧风·羔裘》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E7%BE%94%E8%A3%98) | ☆ | 怀人之作 |
+| [《桧风·隰有苌楚》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E9%9A%B0%E6%9C%89%E8%90%87%E6%A5%9A) | ☆☆ | 厌世，“做个猕猴桃也挺好” |
+
+#### · 曹风（4/4）
+
+| 标题 | 熟知程度 | 主题 |
+| --- | --- | --- |
+| [《曹风·蜉蝣》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E8%9C%89%E8%9D%A3) | ☆☆ | 叹息人生苦短 |
+| [《曹风·候人》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E5%80%99%E4%BA%BA) | ☆ | 讽刺新贵，才不配其职 |
+| [《曹风·鸤鸠》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E9%B3%B2%E9%B3%A9) | ☆ | 赞美在位统治者 |
+| [《曹风·下泉》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E4%B8%8B%E6%B3%89) | ☆ | 怀念贤王贤伯 |
+
+#### · 豳风（4/7）
+
+| 标题 | 熟知程度 | 主题 |
+| --- | --- | --- |
+| [《豳风·狼跋》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E7%8B%BC%E8%B7%8B) | ☆ | 讽刺贵族王孙 |
+| [《豳风·七月》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E4%B8%83%E6%9C%88) | ☆☆☆ | 长篇农事诗 |
+| [《豳风·鸱鸮》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E9%B4%9F%E9%B4%9E) | ☆ | 以母鸟口吻写，即使面对猫头鹰也要辛苦经营巢穴 |
+| [《豳风·东山》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E6%9D%B1%E5%B1%B1) | ☆ | 长期出征，在归途中思家 |
 
   ​    
 
 ## 雅
 
+#### · 小雅（28/74）
+
 | 标题 | 熟知程度 | 主题 |
 | --- | --- | --- |
-| [《周南·关雎》](https://zh.wikisource.org/zh/%E8%A9%A9%E7%B6%93/%E5%85%B3%E9%9B%8E) | ☆☆☆ | “求爱而不得”的情歌 |
-| 《周南·桃夭》 | ☆☆☆ | 以桃花写新娘 |
-| 《周南·麟之趾》 | ☆ | 赞美多子多福 |
+| [《小雅·黄鸟》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E9%BB%83%E9%B3%A5) | ☆ | 流亡者思归 |
+| [《小雅·我行其野》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E6%88%91%E8%A1%8C%E5%85%B6%E9%87%8E) | ☆ | 远嫁女子被丈夫抛弃 |
+| [《小雅·斯干》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E6%96%AF%E5%B9%B2) | ☆ | 祝贺宫室落成之词 |
+| [《小雅·无羊》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E7%84%A1%E7%BE%8A) | ☆ | 歌颂牲畜繁盛 |
+| [《小雅·蓼萧》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E8%93%BC%E8%95%AD) | ☆ | 宴会中，祝贺周天子之词 |
+| [《小雅·大东》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E5%A4%A7%E6%9D%B1) | ☆ | 东方各国人民在周王室压迫下的不满情绪 |
+| [《小雅·苕之华》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E8%8B%95%E4%B9%8B%E8%8F%AF) | ☆ | 饥民感慨不幸 |
+| [《小雅·四月》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E5%9B%9B%E6%9C%88) | ☆ | 逐臣痛伤之情 |
+| [《小雅·鹿鸣》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E9%B9%BF%E9%B3%B4) | ☆☆ | 宴请宾客之乐 |
+| [《小雅·庭燎》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E5%BA%AD%E7%87%8E) | ☆ | 写的是周王早朝前与报时官的对话 |
+| [《小雅·大田》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E5%A4%A7%E7%94%B0) | ☆ | 丰收后祭祀田祖之词 |
+| [《小雅·常棣》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E5%B8%B8%E6%A3%A3) | ☆☆ | 宴会时，表达兄弟情 |
+| [《小雅·伐木》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E4%BC%90%E6%9C%A8) | ☆ | 宴请朋友故旧 |
+| [《小雅·采薇》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E9%87%87%E8%96%87) | ☆☆☆ | 戍边士兵在返乡途中所作 |
+| [《小雅·湛露》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E6%B9%9B%E9%9C%B2) | ☆☆ | 天子宴诸侯 |
+| [《小雅·菁菁者莪》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E8%8F%81%E8%8F%81%E8%80%85%E8%8E%AA) | ☆ | 见君子而内心高兴 |
+| [《小雅·鸿雁》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E9%B4%BB%E9%B4%88) | ☆ | 流民自叙悲苦 |
+| [《小雅·四牡》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E5%9B%9B%E7%89%A1) | ☆ | 站在出使官员角度，表达思归之情 |
+| [《小雅·皇皇者华》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E7%9A%87%E7%9A%87%E8%80%85%E8%8F%AF) | ☆ | 描写出使官员出使民间 |
+| [《小雅·沔水》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E6%B2%94%E6%B0%B4) | ☆ | 表达诗人忧乱忧谗的心情 |
+| [《小雅·祈父》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E7%A5%88%E7%88%B6) | ☆ | 王都卫士抒发内心不满 |
+| [《小雅·白驹》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E7%99%BD%E9%A7%92) | ☆ | 留客惜别 |
+| [《小雅·鼓钟》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E9%BC%93%E9%8D%BE) | ☆ | 观周乐而心生仰慕圣贤之情 |
+| [《小雅·北山》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E5%8C%97%E5%B1%B1) | ☆ | 抱怨役使不均 |
+| [《小雅·无将大车》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E7%84%A1%E5%B0%87%E5%A4%A7%E8%BB%8A) | ☆ | 忧者自我排遣，“不要想那烦心事” |
+| [《小雅·信南山》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E4%BF%A1%E5%8D%97%E5%B1%B1) | ☆☆ | 祭祖祈福，描写了农业生产活动 |
+| [《小雅·青蝇》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E9%9D%92%E8%A0%85) | ☆ | 劝诫当政者勿信谗言，“那些人都是苍蝇” |
+| [《小雅·匏叶》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E7%93%A0%E8%91%89) | ☆ | 下层贵族宴请宾客 |
 
 
   ​    
