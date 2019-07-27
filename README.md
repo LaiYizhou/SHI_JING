@@ -8,8 +8,8 @@
    | 类型 | 原篇目数 | 所选篇目数 |
    | --- | --- | --- |
    | 风 | 160 | 85 |
-   | 雅 | 105 | 34 |
-   | 颂 | 40 | 12 |
+   | 雅 | 105 | 32 |
+   | 颂 | 40 | 11 |
    
 2. 《诗经》中 部分篇目主题历来多有争议
 
@@ -217,16 +217,34 @@
 | [《小雅·青蝇》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E9%9D%92%E8%A0%85) | ☆ | 劝诫当政者勿信谗言，“那些人都是苍蝇” |
 | [《小雅·匏叶》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E7%93%A0%E8%91%89) | ☆ | 下层贵族宴请宾客 |
 
+  ​
 
-  ​    
+#### · 大雅（4/31）
+
+| 标题 | 熟知程度 | 主题 |
+| --- | --- | --- |
+| [《大雅·生民》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E7%94%9F%E6%B0%91) | ☆☆ | 周民族的史诗之一，追溯自己的先祖 |
+| [《大雅·荡》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E8%95%A9) | ☆ | 哀叹周厉王无道，“殷商教训不远” |
+| [《大雅·绵》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E7%B7%9C) | ☆☆ | 祭祀“公亶父”，把周人由豳地迁往岐山之下 |
+| [《大雅·思齐》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E6%80%9D%E9%BD%8A) | ☆☆ | 歌颂周文王 |
+
 
 ## 颂
 
 | 标题 | 熟知程度 | 主题 |
 | --- | --- | --- |
-| [《周南·关雎》](https://zh.wikisource.org/zh/%E8%A9%A9%E7%B6%93/%E5%85%B3%E9%9B%8E) | ☆☆☆ | “求爱而不得”的情歌 |
-| 《周南·桃夭》 | ☆☆☆ | 以桃花写新娘 |
-| 《周南·麟之趾》 | ☆ | 赞美多子多福 |
+| [《周颂·敬之》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E6%95%AC%E4%B9%8B) | ☆ | 周成王自我戒勉 |
+| [《周颂·天作》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E5%A4%A9%E4%BD%9C) | ☆ | 周武王在岐山祭祀历代君主之作 |
+| [《周颂·思文》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E6%80%9D%E6%96%87) | ☆ | 歌颂后稷养民之功 |
+| [《周颂·良耜》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E8%89%AF%E8%80%9C) | ☆ | 大丰收后祭祀土神和谷神 |
+| [《周颂·载芟》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E8%BC%89%E8%8A%9F) | ☆ | 描述农事开垦、播种和收获祭祖的过程 |
+| [《周颂·臣工》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E8%87%A3%E5%B7%A5) | ☆☆ | 训勉百官（特别是农官）勤谨工作 |
+| [《周颂·噫嘻》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E5%99%AB%E5%98%BB) | ☆☆ | 通过描写农业生产而祭祀之词 |
+| [《周颂·丰年》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E8%B1%90%E5%B9%B4) | ☆ | 大丰收后祭田神之词 |
+| [《周颂·武》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E6%AD%A6) | ☆ | 歌颂周武王之作 |
+| [《周颂·闵予小子》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E9%96%94%E4%BA%88%E5%B0%8F%E5%AD%90) | ☆ | 周成王祭祀宗庙，对先祖誓词 |
+| [《商颂·玄鸟》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E7%8E%84%E9%B3%A5) | ☆ | 宋君祭祀殷商先祖之词 |
+
 
   ​    
 
