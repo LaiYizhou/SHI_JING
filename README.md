@@ -11,7 +11,7 @@
    | 雅 | 105 | 34 |
    | 颂 | 40 | 12 |
    
-2. 《诗经》中篇目主题历来多有争议
+2. 《诗经》中 部分篇目主题历来多有争议
 
    因此，“主题”一栏 目前以 [程俊英, 蒋见元. 诗经注析（套装上下册）[M]. 中华书局, 1991.](https://github.com/LaiYizhou/SHI_JING/tree/master/EBook) 为主要参考
 
@@ -116,6 +116,43 @@
 | [《齐风·猗嗟》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E7%8C%97%E5%97%9F) | ☆ | 赞美一位青年射手 |
 | [《齐风·著》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E8%91%97) | ☆ | 写新婚时新郎亲迎的场面 |
 | [《齐风·敝笱》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E6%95%9D%E7%AC%B1) | ☆ | 讽刺齐襄公和文姜之故事 |
+
+#### · 魏风（4/7）
+
+| 标题 | 熟知程度 | 主题 |
+| --- | --- | --- |
+| [《魏风·硕鼠》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E7%A2%A9%E9%BC%A0) | ☆☆ | 反对、讽刺剥削者，把剥削者比喻成大老鼠 |
+| [《魏风·十亩之间》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E5%8D%81%E7%95%9D%E4%B9%8B%E9%96%93) | ☆ | 采桑女子呼伴同归 |
+| [《魏风·伐檀》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E4%BC%90%E6%AA%80) | ☆☆ | 嘲骂剥削者 |
+| [《魏风·陟岵》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E9%99%9F%E5%B2%B5) | ☆ | 征人思家、思亲之作 |
+
+#### · 唐风（3/12）
+
+| 标题 | 熟知程度 | 主题 |
+| --- | --- | --- |
+| [《唐风·绸缪》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E7%B6%A2%E7%B9%86) | ☆☆☆ | 贺新婚 |
+| [《唐风·蟋蟀》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E8%9F%8B%E8%9F%80) | ☆ | 感慨时光，摇摆于在“及时行乐”和“职责所在”之间 |
+| [《唐风·葛生》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E8%91%9B%E7%94%9F) | ☆☆ | 悼亡诗，女子悼念丈夫 |
+
+#### · 秦风（3/10）
+
+| 标题 | 熟知程度 | 主题 |
+| --- | --- | --- |
+| [《秦风·权舆》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E6%AC%8A%E8%BC%BF) | ☆ | 感叹今昔物质条件悬殊 |
+| [《秦风·蒹葭》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E8%92%B9%E8%91%AD) | ☆☆ | “求爱而不及”的情歌 |
+| [《秦风·无衣》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E7%84%A1%E8%A1%A3) | ☆☆ | 流传在秦地民间的一首战歌 |
+
+#### · 陈风（7/10）
+
+| 标题 | 熟知程度 | 主题 |
+| --- | --- | --- |
+| [《陈风·防有鹊巢》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E9%98%B2%E6%9C%89%E9%B5%B2%E5%B7%A2) | ☆ | 担心有人离间自己和情人之间的关系 |
+| [《陈风·东门之杨》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E6%9D%B1%E9%96%80%E4%B9%8B%E6%A5%8A) | ☆ | 写男女约会而久候不至 |
+| [《陈风·株林》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E6%A0%AA%E6%9E%97) | ☆ | 讽刺陈灵公君臣与夏姬之故事 |
+| [《陈风·东门之池》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E6%9D%B1%E9%96%80%E4%B9%8B%E6%B1%A0) | ☆ | 男子口吻，写男女相约于“东门之池” |
+| [《陈风·月出》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E6%9C%88%E5%87%BA) | ☆☆ | 望月而怀人 |
+| [《陈风·衡门》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E8%A1%A1%E9%96%80) | ☆ | 贫贱自慰，“住在衡门之下也行吧” |
+| [《陈风·泽陂》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E6%BE%A4%E9%99%82) | ☆☆ | 见草木而怀人 |
 
 
 
