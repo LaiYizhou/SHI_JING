@@ -196,10 +196,10 @@
 | [《小雅·大东》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E5%A4%A7%E6%9D%B1) | ☆ | 东方各国人民在周王室压迫下的不满情绪 |
 | [《小雅·苕之华》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E8%8B%95%E4%B9%8B%E8%8F%AF) | ☆ | 饥民感慨不幸 |
 | [《小雅·四月》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E5%9B%9B%E6%9C%88) | ☆ | 逐臣痛伤之情 |
-| [《小雅·鹿鸣》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E9%B9%BF%E9%B3%B4) | ☆☆ | 宴请宾客之乐 |
+| [《小雅·鹿鸣》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E9%B9%BF%E9%B3%B4) | ☆☆☆ | 宴请宾客之乐 |
 | [《小雅·庭燎》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E5%BA%AD%E7%87%8E) | ☆ | 写的是周王早朝前与报时官的对话 |
 | [《小雅·大田》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E5%A4%A7%E7%94%B0) | ☆ | 丰收后祭祀田祖之词 |
-| [《小雅·常棣》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E5%B8%B8%E6%A3%A3) | ☆☆ | 宴会时，表达兄弟情 |
+| [《小雅·常棣》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E5%B8%B8%E6%A3%A3) | ☆☆☆ | 宴会时，表达兄弟情 |
 | [《小雅·伐木》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E4%BC%90%E6%9C%A8) | ☆ | 宴请朋友故旧 |
 | [《小雅·采薇》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E9%87%87%E8%96%87) | ☆☆☆ | 戍边士兵在返乡途中所作 |
 | [《小雅·湛露》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E6%B9%9B%E9%9C%B2) | ☆☆ | 天子宴诸侯 |
@@ -243,7 +243,7 @@
 | [《周颂·丰年》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E8%B1%90%E5%B9%B4) | ☆ | 大丰收后祭田神之词 |
 | [《周颂·武》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E6%AD%A6) | ☆ | 歌颂周武王之作 |
 | [《周颂·闵予小子》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E9%96%94%E4%BA%88%E5%B0%8F%E5%AD%90) | ☆ | 周成王祭祀宗庙，对先祖誓词 |
-| [《商颂·玄鸟》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E7%8E%84%E9%B3%A5) | ☆ | 宋君祭祀殷商先祖之词 |
+| [《商颂·玄鸟》](https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E7%8E%84%E9%B3%A5) | ☆☆ | 宋君祭祀殷商先祖之词 |
 
 
   ​    
